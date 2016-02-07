@@ -6,6 +6,7 @@ root 'quotes#index'
   # root 'welcome#index'
 
 resources :quotes  
+get 'about', to: 'quotes#about'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
