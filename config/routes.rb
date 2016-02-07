@@ -5,6 +5,8 @@ root 'quotes#index'
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
 
+resources :quotes  
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
