@@ -1,6 +1,5 @@
 == Splurty Quote App
 
-<<<<<<< HEAD
 Splurty is a database driven, random quote generator. This app was developed with Ruby on Rails and PostgreSQL.
 
 This README would normally document whatever steps are necessary to get the
@@ -30,5 +29,5 @@ Things you may want to cover:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 =======
-This is a Ruby on Rails application. Users can register and submit inspirational quotes. Visitors can click the Quote button to see the next random quote. 
+This is a Ruby on Rails application. Users can register and submit inspirational quotes. Visitors can click the Quote button to see the next random quote.
 >>>>>>> 09568192f77daf5f5480469dcf0c78d826918a1a
