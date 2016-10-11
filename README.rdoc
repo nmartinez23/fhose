@@ -1,5 +1,7 @@
 == README
 
+Splurty is a database driven, random quote generator. This app was developed with Ruby on Rails and PostgreSQL.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
