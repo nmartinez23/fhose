@@ -1,6 +1,11 @@
 == Splurty Quote App
 
-Splurty is a database driven, random quote generator. This app has a mobile-first design and deployed to Heroku: http://splurty-nick-martinez.herokuapp.com Users can get random quotes with each click and also add their own quotes by registering an account.
+Splurty is a database driven, random quote generator. Users can get random quotes with each click and also add their own quotes by registering an account.
+
+This app has a mobile-first design and deployed to Heroku: http://splurty-nick-martinez.herokuapp.com
+
+https://cloud.githubusercontent.com/assets/14083180/22113622/b4d9021a-de1b-11e6-9127-94566d280e1e.png
+
 
 Technologies used for this application:
 
